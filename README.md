@@ -1,4 +1,5 @@
-=== yeoman-test ===
+yeoman-test
+===========
 
 trying out yeoman's angularjs generator
 
